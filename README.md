@@ -1,4 +1,16 @@
-# Refugee Super Wallet
+# 🌍 Refugee Super Wallet
+
+## Live Demo
+
+Try the working prototype:
+
+https://refugee-super-wallet.onrender.com
+
+## Screenshot
+
+![Refugee Super Wallet Dashboard](IMG_0824.png)
+
+---
 
 ## Overview
 
@@ -49,9 +61,13 @@ Architecture:
 - Services
 - API Routes
 
+Deployment:
+- GitHub
+- Render Cloud Hosting
+
 ## Current Status
 
-This is a prototype demonstration. No real money is stored or transferred.
+This is a prototype demonstration. No real money, identity documents, or humanitarian funds are stored or transferred.
 
 ## Future Development
 
@@ -61,3 +77,8 @@ This is a prototype demonstration. No real money is stored or transferred.
 - Mobile application
 - Humanitarian partner integrations
 
+## Disclaimer
+
+This is an independent technology prototype created for demonstration and educational purposes.
+
+It is not an official UNHCR service, licensed financial service, or real payment platform.
